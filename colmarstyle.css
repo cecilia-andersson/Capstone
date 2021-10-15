@@ -21,7 +21,7 @@ h1 {
 	height:auto;
 }*/
 
-img .lion {
+/*img .lion {
 	width:1%;
 	height:auto;
 }
@@ -49,7 +49,7 @@ img .tracks .box3 {
 img .box4 {
 	width:35%;
 	height:auto;
-}
+}*/
 
 
 video {
@@ -79,6 +79,11 @@ nav {
 
 #box1 {
 	background-color: #c0c0c0;
+}
+
+#logo img {
+	width:10%;
+	height:auto;
 }
 
 #box1 .photo {
