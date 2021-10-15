@@ -16,8 +16,38 @@ h1 {
 	font-weight:;
 }
 
-img {
+/*img {
 	width: 60%;
+	height:auto;
+}*/
+
+img .lion {
+	width:1%;
+	height:auto;
+}
+
+img .study-group {
+	width:60%;
+	height:auto;
+}
+
+img .left2 {
+	width:60%;
+	height:auto;
+}
+
+img .info {
+	width:100%;
+	height:auto;
+}
+
+img .box3 {
+	width:100%;
+	height:auto;
+}
+
+img .box4 {
+	width:35%;
 	height:auto;
 }
 
