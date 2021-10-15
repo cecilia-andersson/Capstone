@@ -86,8 +86,8 @@ nav {
 	height:auto;
 }
 
-#box1 .photo {
-	width:;
+#box1 .photo img {
+	width:60%;
 	height:auto;
 	}
 
@@ -124,9 +124,19 @@ nav {
 	margin-bottom:32px;
 }
 
+#box2 .left img {
+	width:60%;
+	height:auto;
+}
+
 #box2 .right {
 	max-width: 40%;
 	height:auto;
+}
+
+#box2 .right img {
+	width:100%;
+	height: auto;
 }
 
 #box2 .box2item {
@@ -167,6 +177,11 @@ nav {
 	margin-bottom:32px;
 }
 
+#box3 .tracks img {
+	width:100%;
+	height:auto;
+}
+
 #box3 .body {
 	padding:16px;
 }
@@ -175,6 +190,11 @@ nav {
 
 #box4 {
 	background-color:white;
+}
+
+#box4 .suggested img {
+	width:35%;
+	height:auto;
 }
 
 /*Footer*/
