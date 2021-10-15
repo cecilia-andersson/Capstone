@@ -62,7 +62,7 @@ video {
 header {
 	background-color: white;
 	display:flex;
-	justify-content:left;
+	justify-content:right;
 }
 
 	header #logo {
@@ -85,7 +85,7 @@ nav {
 }
 
 #logo img {
-	width:10%;
+	width:25px;
 	height:auto;
 }
 
