@@ -1,0 +1,124 @@
+/*Universal style*/
+
+* {
+	font-family: sans-serif;
+	font-size:;
+	
+}
+
+h1 {
+	color:;
+	font-size:;
+	font-weight:;
+	
+}
+
+img .box3 {
+	width:;
+	height:auto;
+}
+
+/*Header*/
+
+header {
+	background-color: white;
+}
+
+	header #logo {
+	
+}
+
+nav {
+	
+}
+
+	nav #nav {
+	
+}
+
+/*Box1*/
+
+#box1 {
+	background-color: #c0c0c0;
+}
+
+#box1 .photo {
+		
+	}
+
+#box1 .links {
+		
+	}
+	
+#box1 .button {
+	border: 1px solid black;
+	padding:2px;
+	width:300px;
+	justify-content:center;
+	text-align:center;
+	color:white;
+	background-color: #696969;
+		
+		}
+
+/*Box2*/
+
+#box2 {
+	background-color:white;
+	width:100%;
+	text-align:left;
+	justify-content:;
+}
+
+#box2 .box2item {
+	background-color:right;
+	text-align:left;
+	border:;
+	width:;
+	height:;
+	margin:;
+}
+
+#box2 .box2item3 {
+	background-color: #c0c0c0;
+	text-align:left;
+	border:;
+	width:;
+	height:;
+	margin:;
+}
+
+/*Box3*/
+
+#box3 {
+	background-color:#dcdcdc;
+	text-align:center;
+	width:100%;
+	padding-top:32px;
+	padding-bottom:32px;
+}
+
+#box3 .tracks {
+	background-color:white;
+	text-align:left;
+	margin-left: 72px;
+	margin-right:72px;
+	margin-top:32px;
+	margin-bottom:32px;
+}
+
+#box3 .body {
+	padding:16px;
+}
+
+/*Box4*/
+
+#box4 {
+	background-color:white;
+}
+
+/*Footer*/
+
+footer {
+	background-color:white;
+}
