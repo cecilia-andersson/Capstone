@@ -53,7 +53,7 @@ img .box4 {
 
 
 video {
-	width:40%;
+	width:60%;
 	height:auto;
 }
 
@@ -137,6 +137,7 @@ nav {
 #box2 .right img {
 	width:100%;
 	height: auto;
+	padding:16px;
 }
 
 #box2 .box2item {
@@ -190,6 +191,11 @@ nav {
 
 #box4 {
 	background-color:white;
+}
+
+#box4 .suggested {
+	width: 40%;
+	height:auto;
 }
 
 #box4 .suggested img {
