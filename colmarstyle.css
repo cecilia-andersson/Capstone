@@ -17,6 +17,11 @@ h1 {
 	
 }
 
+img .study-group {
+	width: 40px;
+	height:auto;
+}
+
 img .info {
 	width:5%;
 	height:auto;
