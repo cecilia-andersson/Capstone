@@ -14,22 +14,10 @@ h1 {
 	color:;
 	font-size:;
 	font-weight:;
-	
 }
 
-img .study-group {
-	width: 40px !important;
-	height:auto;
-}
-
-img .info {
-	width:5%;
-	height:auto;
-	padding: 16px;
-}
-
-img .box3 {
-	width:300px;
+img {
+	width: 60%;
 	height:auto;
 }
 
@@ -64,7 +52,7 @@ nav {
 }
 
 #box1 .photo {
-	max-width:6%;
+	width:;
 	height:auto;
 	}
 
@@ -93,7 +81,7 @@ nav {
 }
 
 #box2 .left {
-	max-width:60%;
+	width:;
 	height:auto;
 	margin-right:24px;
 	margin-left:24px;
