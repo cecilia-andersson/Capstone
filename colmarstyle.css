@@ -61,6 +61,8 @@ video {
 
 header {
 	background-color: white;
+	position:flex;
+	justify-content:left;
 }
 
 	header #logo {
