@@ -75,6 +75,8 @@ nav {
 	width: 40%;
 	height:auto;
 	margin-left:24px;
+	justify-content:center;
+	align-items:center;
 	}
 	
 #box1 .button {
