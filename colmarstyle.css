@@ -68,7 +68,9 @@ nav {
 	}
 
 #box1 .links {
-		
+	width: 40%;
+	height:auto;
+	margin-left:24px;
 	}
 	
 #box1 .button {
