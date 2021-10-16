@@ -139,14 +139,13 @@ nav {
 }
 
 #box2 .right {
-	max-width: 40%;
+	width: 40%;
 	height:auto;
 }
 
 #box2 .right img {
 	width:100%;
 	height: auto;
-	padding:16px;
 }
 
 #box2 .box2item {
