@@ -54,14 +54,16 @@ nav {
 }
 
 #logo img {
-	width:100px;
-	height:auto;
+	height:32px;
+	width:auto;
 }
 
 #box1 .photo {
 	margin-bottom:32px;
 	margin-right:24px;
 	margin-left:24px;
+	width:100%;
+	height:auto;
 }
 
 #box1 .photo img {
