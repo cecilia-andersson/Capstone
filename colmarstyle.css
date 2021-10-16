@@ -73,7 +73,7 @@ nav {
 
 #box1 .links {
 	width: 40%;
-	height:auto;
+	height:100%;
 	margin-left:24px;
 	display:flex;
 	justify-content:center;
